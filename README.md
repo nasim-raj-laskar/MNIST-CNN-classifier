@@ -57,7 +57,7 @@ jupyter notebook mnist_classification.ipynb
     
 ## Results
 - The model achieves high accuracy (~99%) on the MNIST test set.
-- Sample images from the dataset are displayed with predicted and actual labels.
+- Loss: Very low test loss on unseen data.
 ## License
 
 This project is licensed under the MIT License .
