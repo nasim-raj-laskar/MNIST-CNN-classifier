@@ -1,5 +1,7 @@
 # MNIST Handwritten Digit Classification
-This project implements a machine learning model to classify handwritten digits from the MNIST dataset, using TensorFlow and Keras, directly within a Jupyter notebook.
+This repository contains a Jupyter Notebook that implements a Convolutional Neural Network (CNN) for classifying handwritten digits from the MNIST dataset. The MNIST dataset is one of the most well-known benchmarks for image classification tasks, consisting of 70,000 grayscale images of handwritten digits (0-9), with 60,000 for training and 10,000 for testing. Each image is 28x28 pixels, and the goal is to predict the correct digit from 0 to 9.
+
+The project walks you through loading and preprocessing the dataset, building a CNN model using TensorFlow and Keras, training the model, and evaluating its performance. Visualization of the results and predictions are included to help you understand how well the model performs.
 
 ## Project Overview
 The notebook demonstrates:
