@@ -33,7 +33,7 @@ pip install tensorflow numpy pandas matplotlib
 
 - Clone or download the repository:
 ```
-git clone https://github.com/your-username/mnist-classification-notebook.git
+git clone https://github.com/your-username/hanwri.git
 ```
 - Open the Jupyter notebook:
 ```
