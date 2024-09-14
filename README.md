@@ -37,7 +37,7 @@ git clone https://github.com/your-username/mnist-classification-notebook.git
 ```
 - Open the Jupyter notebook:
 ```
-jupyter notebook mnist_classification.ipynb
+jupyter notebook hanwri.ipynb
 ```
 - Run all cells in the notebook to:
   - Download and preprocess the MNIST dataset.
